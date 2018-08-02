@@ -1,0 +1,7 @@
+File conversion(e.g.: video/audio)
+System Integration(file-ingestion, data transfer between systems)
+Run web server (e.g. owain self hosting)
+Message queue processing (eg. MSMQ)
+Host remote AKA.net Actor system
+Host other servers: Mail, FTP, etc
+Health/heartbeat monitoring (eg. execute API periodically)
